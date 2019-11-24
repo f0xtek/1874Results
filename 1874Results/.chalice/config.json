@@ -1,0 +1,9 @@
+{
+  "version": "2.0",
+  "app_name": "1874Results",
+  "stages": {
+    "dev": {
+      "lambda_memory_size": 256
+    }
+  }
+}
